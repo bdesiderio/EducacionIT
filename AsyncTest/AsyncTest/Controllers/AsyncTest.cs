@@ -15,14 +15,14 @@ namespace AsyncTest.Controllers
         public async Task<IActionResult> GetNoAwait()
         {
             MethodAsync();
-            return Ok("Todo en Orden");
+            return Ok("GetNoAwait");
         }
 
         [HttpGet("await")]
         public async Task<IActionResult> GetAwait()
         {
             await MethodAsync();
-            return Ok("Todo en Orden");
+            return Ok("GetNoAwait");
         }
 
         private async Task MethodAsync()

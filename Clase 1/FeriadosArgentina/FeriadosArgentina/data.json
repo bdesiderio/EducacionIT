@@ -1,0 +1,66 @@
+[
+  {
+    "fecha": "01/01/2019",
+    "descripcion": "Año Nuevo."
+  },
+  {
+    "fecha": "04/03/2019",
+    "descripcion": "Carnaval."
+  },
+  {
+    "fecha": "05/03/2019",
+    "descripcion": "Carnaval."
+  },
+  {
+    "fecha": "24/03/2019",
+    "descripcion": "Día Nacional de la Memoria por la Verdad y la Justicia."
+  },
+  {
+    "fecha": "02/04/2019",
+    "descripcion": "Día del Veterano y de los Caídos en la Guerra de Malvinas."
+  },
+  {
+    "fecha": "19/04/2019",
+    "descripcion": "Viernes Santo."
+  },
+  {
+    "fecha": "01/05/2019",
+    "descripcion": "Día del trabajador."
+  },
+  {
+    "fecha": "25/05/2019",
+    "descripcion": "Día de la Revolución de Mayo."
+  },
+  {
+    "fecha": "17/06/2019",
+    "descripcion": "Día Paso a la Inmortalidad del General Martín Miguel de Güemes."
+  },
+  {
+    "fecha": "20/06/2019",
+    "descripcion": "Día Paso a la Inmortalidad del General Manuel Belgrano."
+  },
+  {
+    "fecha": "09/07/2019",
+    "descripcion": "Día de la Independencia."
+  },
+  {
+    "fecha": "17/08/2019",
+    "descripcion": "Paso a la Inmortalidad del Gral. José de San Martín."
+  },
+  {
+    "fecha": "12/10/2019",
+    "descripcion": "Día del Respeto a la Diversidad Cultural."
+  },
+  {
+    "fecha": "18/11/2019",
+    "descripcion": "Día de la Soberanía Nacional (20/11)."
+  },
+  {
+    "fecha": "08/12/2019",
+    "descripcion": "Inmaculada Concepción de María."
+  },
+  {
+    "fecha": "25/12/2019",
+    "descripcion": "Navidad."
+  }
+]

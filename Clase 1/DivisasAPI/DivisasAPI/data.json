@@ -1,0 +1,10 @@
+{
+  "dolar": {
+    "compra": 60,
+    "venta": 65
+  },
+  "euro": {
+    "compra": 69,
+    "venta": 73
+  }
+}
